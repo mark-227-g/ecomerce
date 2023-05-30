@@ -1,4 +1,5 @@
-# ecomerce
+# ecommerce
+
 Challenge 13
 
 ## Author
@@ -10,6 +11,7 @@ Mark Edwards
 clone git repository ```https://github.com/mark-227-g/ecommerce```
 
 This runs in expressjs
+
 * npm install
 * npm run seed
 * npm start
@@ -18,6 +20,7 @@ This runs in expressjs
 
 use insomnia to test
 Example:
+
 * Get all
   * get http://localhost:3001/api/categories
 * Get by id
@@ -27,13 +30,15 @@ Example:
   * { "category_name":"Book"}
   * Update
     * put http://localhost:3001/api/categories/6
-    * 	{"category_name": "Books and Newspapers"}
+    * {"category_name": "Books and Newspapers"}
   * Delete
     * http://localhost:3001/api/categories/6
 
 ### Video
   
-[Video](https://github.com/mark-227-g/ecommerce/video/ormvideo.mov)
+* [Video Part 1](https://github.com/mark-227-g/ecommerce/video/ORMpart1.mov)
+* [Video Part 2](https://github.com/mark-227-g/ecommerce/video/ORMpart2.mov)
+* [Video Part 3](https://github.com/mark-227-g/ecommerce/video/ORMpart3.mov)
 
 ## User Story
 
